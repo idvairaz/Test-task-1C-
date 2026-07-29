@@ -9,7 +9,7 @@
 **2. Создана информационная база**
 - Конфигуратор готов к разработке
 
-  ![tree](screenshots/tree.png "tree")
+  ![creat_infrastructure](screenshots/creat_infrastructure.png "creat_infrastructure")
 
 ---
 
